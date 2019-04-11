@@ -1,2 +1,1 @@
-# todo-react
-Todo Application (React)
+Todo Application
