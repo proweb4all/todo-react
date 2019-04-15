@@ -1,6 +1,15 @@
-.add-item button{
-  margin: .5rem 1rem;
+.item-add-form{
+  margin-top: 1rem;
 }
-.add-item button i{
+/* .item-add-form button{
+  margin-left: 1rem;
+} */
+.item-add-form button i{
   margin-right: .4rem;
+}
+
+.form-control {
+  width: auto;
+  flex-grow: 1;
+  margin-right: .5rem;
 }
