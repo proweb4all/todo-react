@@ -1,13 +1,9 @@
 .item-add-form{
   margin-top: 1rem;
 }
-/* .item-add-form button{
-  margin-left: 1rem;
-} */
 .item-add-form button i{
   margin-right: .4rem;
 }
-
 .form-control {
   width: auto;
   flex-grow: 1;

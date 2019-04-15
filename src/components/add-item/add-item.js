@@ -12,7 +12,6 @@ export default class AddItem extends Component {
   }
   onLabelChange = (e) => {
     this.setState({ label: e.target.value });
-    console.log(e.target.value);
   }
   render() {
     return (
